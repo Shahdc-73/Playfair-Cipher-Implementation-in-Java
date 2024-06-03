@@ -12,4 +12,4 @@ Usage:
 
 To use the Playfair cipher in your Java project, simply clone this repository and import the PlayfairCipher class into your project. You can then utilize the provided methods to encrypt and decrypt messages using the Playfair algorithm.
 
-java
+ 
